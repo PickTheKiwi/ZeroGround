@@ -1,7 +1,8 @@
 
 # Project Title
 
-ZeroGround is a minecraft texturepack that aims to improve minecrafts GUI and other aspects of the game!
+ZeroGround
+A resource pack that aims to be a simple yet slick designed GUI themed pack, wanting to appeal to the users who love simplicity and transparency
 
 
 ![Logo](https://github.com/KevinKor001/ZeroGround/blob/main/pack.png?raw=true)
@@ -11,13 +12,14 @@ ZeroGround is a minecraft texturepack that aims to improve minecrafts GUI and ot
 
 This project is used by the following People:
 
-- Me
-- People Other than me
+- Kevin_Kor001
+- Yung_Shy
+- PickTheKiwi
 
 
 ## Support
 
-For support, email someEmail@Domain.com.
+For support, Message N/A
 
 
 ## Screenshots
@@ -29,10 +31,10 @@ For support, email someEmail@Domain.com.
 
 - Panoramas
 - HD text font
-- stone background
-- Some tweaks on the splash screen
-- some srite stuff (tha definitely works)
-- Add more integrations
+- stone background to menus
+- The addition of funny splash screen texts
+- Sprite related items (That may need fixing)
+- And a bunch more waiting to be released!
 
 
 ## Related
@@ -44,27 +46,29 @@ Here are some related projects
 
 ## Optimizations
 
-Absolutely zero
+No Optimizations have been made at this time.
 
 
 ## License
 
-probably open License... we dont know yet
+Not sure but there is a chance of it being OPEN.
 
 
 ## Installation
 
 
 
-- Open Minecraft (1.20)
-- On the options menu select texture packs
-- Select open pack folder
-- Insert texturepack in the folder
-- Enjoy!
+- Download the Texturepack
+- Press the WinKey + R and put in the command run window %appdata%
+- Go to .minecraft
+- Select Instances and then version 1.20.1 (or 1.20)
+- Drag and drop the zip file into the folder
+- Open minecraft and enable it above every other texturepack you have so it can work
+- There you go! Enjoy your ZeroGround GUI pack!
 
 ## Environment Variables
 
-This section is for when i intergrate my mod API soooooo
+This section is for Mod configurations which will come in the future!
 
 `TEXTURE_ID`
 
