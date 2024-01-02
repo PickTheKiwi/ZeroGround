@@ -12,9 +12,9 @@ A resource pack that aims to be a simple yet slick designed GUI themed pack, wan
 
 This project is used by the following People:
 
-- Kevin_Kor001
-- Yung_Shy
-- PickTheKiwi
+- Kevin_Kor001 (Helper/Designer)
+- Yung_Shy (Creator)
+- PickTheKiwi (Co-creator)
 
 
 ## Support
@@ -77,7 +77,7 @@ This section is for Mod configurations which will come in the future!
 
 ## Documentation
 
-[Documentation](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+There is no Documentation as of right now!
 
 
 ## Authors
