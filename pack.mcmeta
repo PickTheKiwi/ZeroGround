@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": "ZeroGround, The Simple GUI Pack coming your way!",
+    "supported_formats": { "min_inclusive": 15, "max_inclusive": 22 }
+  },
+  "overlays": {
+    "entries": [
+	  { "formats": [20, 22], "directory": "overlay-1.20.3" },
+	  { "formats": [16, 22], "directory": "overlay-1.20.2" }
+    ]
+  }
+}
