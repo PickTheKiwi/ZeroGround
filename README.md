@@ -5,7 +5,7 @@ ZeroGround
 A resource pack that aims to be a simple yet slick designed GUI themed pack, wanting to appeal to the users who love simplicity and transparency
 
 
-![Logo]([https://github.com/KevinKor001/ZeroGround/blob/main/pack.png?raw=true](https://github.com/PickTheKiwi/ZeroGround/blob/main/pack.png))
+![Logo](https://github.com/PickTheKiwi/ZeroGround/blob/main/pack.png?raw=true)
 
 
 ## Used By
