@@ -78,9 +78,3 @@ This section is for Mod configurations which will come in the future!
 ## Documentation
 
 There is no Documentation as of right now!
-
-
-## Authors
-
-- [@octokatherine](https://www.github.com/octokatherine)
-
