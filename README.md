@@ -1,5 +1,5 @@
 
-# Project Title
+# ZeroGround - A Minecraft resource pack
 
 ZeroGround
 A resource pack that aims to be a simple yet slick designed GUI themed pack, wanting to appeal to the users who love simplicity and transparency
@@ -41,7 +41,7 @@ For support, Message N/A
 
 Here are some related projects
 
-[Forked Form PickTheKiwi](https://github.com/PickTheKiwi/ZeroGround)
+OneGround (to be linked)
 
 
 ## Optimizations
@@ -65,14 +65,6 @@ Not sure but there is a chance of it being OPEN.
 - Drag and drop the zip file into the folder
 - Open minecraft and enable it above every other texturepack you have so it can work
 - There you go! Enjoy your ZeroGround GUI pack!
-
-## Environment Variables
-
-This section is for Mod configurations which will come in the future!
-
-`TEXTURE_ID`
-
-`TARGET_MOD`
 
 
 ## Documentation
