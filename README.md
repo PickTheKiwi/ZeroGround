@@ -24,7 +24,8 @@ For support, Message N/A
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+I would recommend to download the resource pack and try it out yourself rather than looking at screenshots!
+I promise it wont disappoint!
 
 
 ## Roadmap
@@ -33,8 +34,8 @@ For support, Message N/A
 - HD text font
 - stone background to menus
 - The addition of funny splash screen texts
-- Sprite related items (That may need fixing)
-- And a bunch more waiting to be released!
+- Sprite related items
+- refreshing GUI and other QOL (Quality Of Life) stuff.
 
 
 ## Related
@@ -66,7 +67,3 @@ Not sure but there is a chance of it being OPEN.
 - Open minecraft and enable it above every other texturepack you have so it can work
 - There you go! Enjoy your ZeroGround GUI pack!
 
-
-## Documentation
-
-There is no Documentation as of right now!
