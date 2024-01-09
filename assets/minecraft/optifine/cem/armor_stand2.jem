@@ -1,0 +1,183 @@
+{
+	"credit": "Made with Blockbench",
+	"texture": "armor_stand.png",
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -23, 0],
+			"boxes": [
+				{"coordinates": [-1, 23, -1, 0, 0, 0], "textureOffset": [2, 2]}
+			]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"boxes": [
+				{"coordinates": [-6, 21, -1.5, 0, 0, 0], "textureOffset": [3, 29]}
+			],
+			"submodels": [
+				{
+					"id": "RightLeg",
+					"invertAxis": "xy",
+					"translate": [-6.175, 12.1, -9],
+					"boxes": [
+						{"coordinates": [6.1745, -7.09485, 6.95346, 4, 12, 4], "textureOffset": [0, 16]},
+						{"coordinates": [6.1745, -7.09485, 6.95346, 4, 12, 4], "textureOffset": [0, 32], "sizeAdd": 0.25}
+					]
+				},
+				{
+					"id": "Head2",
+					"invertAxis": "xy",
+					"translate": [-7.95, 23.975, -7.625],
+					"boxes": [
+						{"coordinates": [4, 4.97261, 3.47736, 8, 8, 8], "textureOffset": [0, 0]},
+						{"coordinates": [4, 4.97261, 3.47736, 8, 8, 8], "textureOffset": [32, 0], "sizeAdd": 0.5}
+					]
+				},
+				{
+					"id": "Body2",
+					"invertAxis": "xy",
+					"translate": [-8, 24, -8],
+					"boxes": [
+						{"coordinates": [4, -7, 6, 8, 12, 4], "textureOffset": [16, 16]},
+						{"coordinates": [4, -7, 6, 8, 12, 4], "textureOffset": [16, 32], "sizeAdd": 0.25}
+					]
+				},
+				{
+					"id": "RightArm",
+					"invertAxis": "xy",
+					"translate": [-4, 25.25, -8.5],
+					"rotate": [13, 0, -12.5],
+					"boxes": [
+						{"coordinates": [7, -5.07596, 5.13176, 4, 12, 4], "textureOffset": [40, 16]},
+						{"coordinates": [7, -5.07596, 5.13176, 4, 12, 4], "textureOffset": [40, 32], "sizeAdd": 0.25}
+					]
+				},
+				{
+					"id": "LeftArm",
+					"invertAxis": "xy",
+					"translate": [-11.775, 22.25, -10.3],
+					"rotate": [13, 0, 12.5],
+					"boxes": [
+						{"coordinates": [5, -5.10926, 7.03956, 4, 12, 4], "textureOffset": [32, 48]},
+						{"coordinates": [5, -5.10926, 7.03956, 4, 12, 4], "textureOffset": [48, 48], "sizeAdd": 0.25}
+					]
+				},
+				{
+					"id": "LeftLeg",
+					"invertAxis": "xy",
+					"translate": [-9.85, 12.075, -7.2],
+					"boxes": [
+						{"coordinates": [5.8255, -7.07896, 5.13229, 4, 12, 4], "textureOffset": [16, 48]},
+						{"coordinates": [5.8255, -7.07896, 5.13229, 4, 12, 4], "textureOffset": [0, 48], "sizeAdd": 0.25}
+					]
+				},
+				{
+					"id": "shield",
+					"texture": "shield.png",
+					"invertAxis": "xy",
+					"translate": [0, 16, -3],
+					"boxes": [
+						{
+							"coordinates": [-5, -10, -2, 10, 13, 1],
+							"uvNorth": [2, 3, 12, 16],
+							"uvEast": [1, 3, 2, 16],
+							"uvSouth": [13, 3, 23, 16],
+							"uvWest": [12, 3, 13, 16],
+							"uvUp": [12, 3, 2, 2],
+							"uvDown": [22, 2, 12, 3]
+						}
+					]
+				}
+			]
+		},
+		{
+			"part": "left_arm",
+			"id": "left_arm",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [5, -22, 0],
+			"boxes": [
+				{"coordinates": [-7, 12, -1, 0, 0, 0], "textureOffset": [34, 18]}
+			]
+		},
+		{
+			"part": "right_arm",
+			"id": "right_arm",
+			"invertAxis": "xy",
+			"translate": [-5, -22, 0],
+			"boxes": [
+				{"coordinates": [5, 12, -1, 0, 0, 0], "textureOffset": [26, 2]}
+			]
+		},
+		{
+			"part": "left_leg",
+			"id": "left_leg",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [1.85, -12, 0],
+			"boxes": [
+				{"coordinates": [-2.9, 1, -1, 0, 0, 0], "textureOffset": [42, 18]}
+			]
+		},
+		{
+			"part": "right_leg",
+			"id": "right_leg",
+			"invertAxis": "xy",
+			"translate": [-1.85, -12, 0],
+			"boxes": [
+				{"coordinates": [1.05, 1, -1, 0, 0, 0], "textureOffset": [10, 2]}
+			]
+		},
+		{
+			"part": "right",
+			"id": "right",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"boxes": [
+				{"coordinates": [-3, 14, -1, 0, 0, 0], "textureOffset": [50, 18]}
+			]
+		},
+		{
+			"part": "left",
+			"id": "left",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"boxes": [
+				{"coordinates": [1, 14, -1, 0, 0, 0], "textureOffset": [18, 2]}
+			]
+		},
+		{
+			"part": "waist",
+			"id": "waist",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"boxes": [
+				{"coordinates": [-4, 12, -1, 0, 0, 0], "textureOffset": [2, 50]}
+			]
+		},
+		{
+			"part": "base",
+			"id": "base",
+			"texture": "armor_stand2.png",
+			"invertAxis": "xy",
+			"translate": [0, -12, 0],
+			"boxes": [
+				{
+					"coordinates": [-8, 0, -8, 16, 6, 16],
+					"uvNorth": [32, 49, 16, 43],
+					"uvEast": [16, 49, 0, 43],
+					"uvSouth": [64, 49, 48, 43],
+					"uvWest": [48, 49, 32, 43],
+					"uvUp": [32, 43, 16, 27],
+					"uvDown": [48, 27, 32, 43]
+				}
+			]
+		}
+	]
+}
